@@ -1,4 +1,4 @@
-Luis Joel Álvarez Rojas
+##Luis Joel Álvarez Rojas
 Estudiante de Ingeniería de Software | Cloud Enthusiast
 📍 Universidad Autónoma de Querétaro (UAQ)
 🎓 8° Semestre de Ingeniería de Software
@@ -42,6 +42,6 @@ DevOps & Otras Herramientas:
 
 🔹 Actualizado: Junio 2025
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cbb1estonen&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="480">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cbb1estone&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="480">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelGPaulin&layout=compact&theme=tokyonight" alt="Top Languages" width="380">
 </p
